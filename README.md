@@ -11,16 +11,11 @@ Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and code
 
 
 ## 🛠 Skills
-+ Python3, 
-+ MySQL, 
-+ HTML, 
-+ CSS, 
-+ Bash, 
-+ LaTeX, 
-+ Markdown, 
-+ Canva pro,
-+ 95+ WPM typing speed
 
+### Code
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,html,css,bash,latex,markdown)](https://skillicons.dev)
+
+### Typing
 ![type](https://i.imgur.com/fHITsWW.png)
 ![type](https://i.imgur.com/UYl34ma.png)
 
