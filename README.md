@@ -48,8 +48,5 @@ Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and code
 [![SQL](https://img.shields.io/badge/SQL-One-yellow.svg)](https://opensource.org/licenses/)
 
 
-## Support link 
-Buy a super-cheap NFT to support me
-[https://opensea.io/zetacode](https://img.shields.io/badge/Opensea-super%20cheap%20NFT-yellowgreen?style=for-the-badge&logo=appveyor)
-
-
+## Support me
+Buy a <a href="https://opensea.io/zetacode">super cheap NFT</a> to help me out
