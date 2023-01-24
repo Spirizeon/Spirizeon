@@ -31,13 +31,21 @@ Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and code
 
 😄 Pronouns...He/Him/They
 
-
-
+## Tools I use
+![](https://img.shields.io/badge/OS-Win-red?style=flat-square&logo=appveyor)
+![](https://img.shields.io/badge/Terminal-Tabby-blue?style=flat-square&logo=appveyor)
+![](https://img.shields.io/badge/Editor-VSCode-brightgreen?style=flat-square&logo=appveyor)
+![](https://img.shields.io/badge/Editor-Lapce-brightgreen?style=flat-square&logo=appveyor)
+![](https://img.shields.io/badge/OS-Debian-red?style=flat-square&logo=appveyor)
+![](https://img.shields.io/badge/Editor-Neovim-brightgreen?style=flat-square&logo=appveyor)
+![](https://img.shields.io/badge/Editor-GNU%20nano-brightgreen?style=flat-square&logo=appveyor)
+![](https://img.shields.io/badge/Terminal-Xterm-blue?style=flat-square&logo=appveyor)
+![](https://img.shields.io/badge/Design-Canva-yellow?style=flat-square&logo=appveyor)
 ## Rices overview
 ![Rice](https://i.imgur.com/XF2WWaH.jpg)
-## HackerRank Badges
-[![Python-3](https://img.shields.io/badge/Python3-Three-green.svg)](https://choosealicense.com/licenses/mit/)
-[![SQL](https://img.shields.io/badge/SQL-One-yellow.svg)](https://opensource.org/licenses/)
+## HackerRank Badges (Obtained back in 2021)
+![](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85-lightgrey?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/SQL-%E2%98%85-lightgrey?style=for-the-badge&logo=appveyor)
 
 
 ## Support me
