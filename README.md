@@ -3,9 +3,9 @@
 
 
 
-![Logo](https://i.imgur.com/vj5KOYw.gif)
+![Logo](https://media.discordapp.net/attachments/1052253206668902490/1067467444731531324/Untitled_design_1.gif)
 
-
+![lol](https://s9.gifyu.com/images/Untitled-designd67db7d9600985db.gif)
 ## 🚀 About Me
 Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and coder.
 
@@ -39,10 +39,7 @@ Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and code
 
 
 ## Rice screenshots
-![app screenshot](https://i.imgur.com/Tp5J5yh.png)
-![app screenshot](https://i.imgur.com/jIIasda.png)
-![app screenshot](https://i.imgur.com/xNrS2hz.png)
-![app screenshot](https://i.imgur.com/CPJLW8q.png)
+![](https://s9.gifyu.com/images/Untitled-designd67db7d9600985db.gif](https://i.imgur.com/XF2WWaH.jpg)
 ## HackerRank Badges
 [![Python-3](https://img.shields.io/badge/Python3-Three-green.svg)](https://choosealicense.com/licenses/mit/)
 [![SQL](https://img.shields.io/badge/SQL-One-yellow.svg)](https://opensource.org/licenses/)
