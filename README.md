@@ -38,8 +38,8 @@ Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and code
 
 
 
-## Rice screenshots
-![](https://s9.gifyu.com/images/Untitled-designd67db7d9600985db.gif](https://i.imgur.com/XF2WWaH.jpg)
+## Rices overview
+![Rice](https://i.imgur.com/XF2WWaH.jpg)
 ## HackerRank Badges
 [![Python-3](https://img.shields.io/badge/Python3-Three-green.svg)](https://choosealicense.com/licenses/mit/)
 [![SQL](https://img.shields.io/badge/SQL-One-yellow.svg)](https://opensource.org/licenses/)
