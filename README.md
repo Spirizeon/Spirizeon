@@ -13,11 +13,17 @@ Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and code
 ## 🛠 Skills
 
 ### Code
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,html,css,bash,latex,markdown)](https://skillicons.dev)
+<img src="https://user-images.githubusercontent.com/123345456/218958751-a779550d-4e0d-457f-8614-083e65815512.svg" height =60px> <img src="https://user-images.githubusercontent.com/123345456/218958759-3ee9974c-e985-4bae-a75c-892bb5dda625.svg" height = 60px> <img src= "https://user-images.githubusercontent.com/123345456/218958761-6c7658e2-67f6-47ec-adff-f231b3dbdb80.svg" height = 60px>
+<img src = "https://user-images.githubusercontent.com/123345456/218958766-b13becb4-b133-418e-83d7-3b6eb9125ec9.svg" height = 60px>
+<img src = "https://user-images.githubusercontent.com/123345456/218958781-31e5d2f2-91ba-4466-a5e8-8a17b17c06ba.svg" height= 60px>
+<img src = "https://user-images.githubusercontent.com/123345456/218958786-bace7d39-061b-49e8-b25c-c9f54ff3eab4.svg" height = 60px>
+<img src = "https://user-images.githubusercontent.com/123345456/218958790-3a552a1d-1609-4350-b232-5195da2bf01a.svg" height= 60px>
+<img src = "https://user-images.githubusercontent.com/123345456/218958792-2eec7abd-08e7-4da3-a4b8-0727a927d764.svg" height = 60px>
+
 
 ### Typing
-![type](https://i.imgur.com/fHITsWW.png)
-![type](https://i.imgur.com/UYl34ma.png)
+15s test average: 105WPM
+30s test average: 99WPM
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
