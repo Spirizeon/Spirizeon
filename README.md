@@ -22,8 +22,8 @@ Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and code
 
 
 ### Typing
-15s test average: 105WPM
-30s test average: 99WPM
+![](https://img.shields.io/badge/15s%20Test-105WPM-brightgreen)
+![](https://img.shields.io/badge/30s%20Test-99WPM-blue)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
@@ -49,10 +49,6 @@ Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and code
 ![](https://img.shields.io/badge/Design-Canva-yellow?style=flat-square&logo=appveyor)
 ## Rices overview
 ![Rice](https://i.imgur.com/XF2WWaH.jpg)
-## HackerRank Badges (Obtained back in 2021)
-![](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85-lightgrey?style=for-the-badge&logo=appveyor)
-![](https://img.shields.io/badge/SQL-%E2%98%85-lightgrey?style=for-the-badge&logo=appveyor)
-
 
 ## Support me
 Buy a <a href="https://opensea.io/zetacode">super cheap NFT</a> to help me out
