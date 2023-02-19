@@ -13,13 +13,14 @@ Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and code
 ## 🛠 Skills
 
 ### Code
-<img src="https://user-images.githubusercontent.com/123345456/218958751-a779550d-4e0d-457f-8614-083e65815512.svg" height =60px> <img src="https://user-images.githubusercontent.com/123345456/218958759-3ee9974c-e985-4bae-a75c-892bb5dda625.svg" height = 60px> <img src= "https://user-images.githubusercontent.com/123345456/218958761-6c7658e2-67f6-47ec-adff-f231b3dbdb80.svg" height = 60px>
-<img src = "https://user-images.githubusercontent.com/123345456/218958766-b13becb4-b133-418e-83d7-3b6eb9125ec9.svg" height = 60px>
-<img src = "https://user-images.githubusercontent.com/123345456/218958781-31e5d2f2-91ba-4466-a5e8-8a17b17c06ba.svg" height= 60px>
-<img src = "https://user-images.githubusercontent.com/123345456/218958786-bace7d39-061b-49e8-b25c-c9f54ff3eab4.svg" height = 60px>
-<img src = "https://user-images.githubusercontent.com/123345456/218958790-3a552a1d-1609-4350-b232-5195da2bf01a.svg" height= 60px>
-<img src = "https://user-images.githubusercontent.com/123345456/218958792-2eec7abd-08e7-4da3-a4b8-0727a927d764.svg" height = 60px>
 
+
+<img src = "https://user-images.githubusercontent.com/123345456/219951515-4da684b9-4cbe-4a8a-99e5-fd9be2cab5eb.svg" height = 50px /> <img src = "https://user-images.githubusercontent.com/123345456/219951517-5692028e-cfe0-4ab5-ba3e-5373701b2908.svg" height = 50px /><img src ="https://user-images.githubusercontent.com/123345456/219951519-b1da0af8-1006-44cd-8bdf-8ddb66dfd336.svg" height = 50px /> <img src ="https://user-images.githubusercontent.com/123345456/219951521-c9a1121c-7a6e-4a9f-9158-a8b84c152123.svg" height = 50px /> <img src ="https://user-images.githubusercontent.com/123345456/219951523-6ea3a84c-e80a-4aad-baaa-da0421380917.svg" height = 50px /> 
+<img src = "https://user-images.githubusercontent.com/123345456/219951526-489da7c1-28f1-4932-be21-ee5934017ac9.svg" height = 50px /> 
+<img src = "https://user-images.githubusercontent.com/123345456/219951527-bf904c82-daa6-4c9c-af1e-75fb5e173276.svg" height = 50px /> 
+<img src = "https://user-images.githubusercontent.com/123345456/219951528-77305135-6268-43c2-b3e8-d01fb6b7e636.svg" height = 50px /> 
+<img src = "https://user-images.githubusercontent.com/123345456/219951529-fcfdff0e-3a73-4285-8a8f-36af8ea8f2da.svg" height = 50px />
+<img src="https://user-images.githubusercontent.com/123345456/219951530-39792dce-3495-4554-bd7f-7671065d1f18.svg" height = 50px /> 
 
 ### Typing
 ![](https://img.shields.io/badge/15s%20Test-105WPM-brightgreen)
