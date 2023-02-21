@@ -1,8 +1,10 @@
 ## 🚀 About Me
-Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and coder.
-</br>
+> Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and coder.
+
 👩‍💻 I'm currently working on a native desktop assistant for Windows 10/11
+</br>
 🧠 Exploring about Git, Linux, ML and Laravel 
+</br>
 😄 Pronouns...He/Him/They
 </br>
  
@@ -22,18 +24,10 @@ Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and code
 #
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spirizeon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"> <img align=auto src="https://github-readme-stats.vercel.app/api?username=spirizeon&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 </br>
+#
+![](https://img.shields.io/badge/15s%20TypeTest-105WPM-brightgreen?style=flat-square&logo=appveyor) ![](https://img.shields.io/badge/30s%20TypeTest-99WPM-blue?style=flat-square&logo=appveyor)
 
-### Typing
-![](https://img.shields.io/badge/15s%20Test-105WPM-brightgreen)
-![](https://img.shields.io/badge/30s%20Test-99WPM-blue)
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-[![discord](https://img.shields.io/badge/discord-0A66C2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6CnRu5mMJH)
-## Me
-
-
-## Tools I use
+# ⚒️ Everyday Tools
 ![](https://img.shields.io/badge/OS-Win-red?style=flat-square&logo=appveyor)
 ![](https://img.shields.io/badge/Terminal-Tabby-blue?style=flat-square&logo=appveyor)
 ![](https://img.shields.io/badge/Editor-VSCode-brightgreen?style=flat-square&logo=appveyor)
@@ -43,8 +37,9 @@ Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and code
 ![](https://img.shields.io/badge/Editor-GNU%20nano-brightgreen?style=flat-square&logo=appveyor)
 ![](https://img.shields.io/badge/Terminal-Xterm-blue?style=flat-square&logo=appveyor)
 ![](https://img.shields.io/badge/Design-Canva-yellow?style=flat-square&logo=appveyor)
-## Rices overview
-![Rice](https://i.imgur.com/XF2WWaH.jpg)
-
 ## Support me
 Buy a <a href="https://opensea.io/zetacode">super cheap NFT</a> to help me out
+## Config Showcase
+![Rice](https://i.imgur.com/XF2WWaH.jpg)
+
+
