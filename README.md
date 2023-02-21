@@ -19,7 +19,7 @@ Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and code
 <img src = "https://user-images.githubusercontent.com/123345456/219951529-fcfdff0e-3a73-4285-8a8f-36af8ea8f2da.svg" height = 50px />
 <img src="https://user-images.githubusercontent.com/123345456/219951530-39792dce-3495-4554-bd7f-7671065d1f18.svg" height = 50px /> 
 #
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=[]&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"> <img align=auto src="https://github-readme-stats.vercel.app/api?username=spirizeon&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=spirizeon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"> <img align=auto src="https://github-readme-stats.vercel.app/api?username=spirizeon&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 </br>
 
 ### Typing
