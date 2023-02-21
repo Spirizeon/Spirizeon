@@ -2,12 +2,11 @@
 Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and coder.
 </br>
 👩‍💻 I'm currently working on a native desktop assistant for Windows 10/11
-
 🧠 Exploring about Git, Linux, AI, UI/UX design
-
 😄 Pronouns...He/Him/They
 </br>
-
+## My Projects
+Harley is a virtual desktop assistant for Windows 10 and 11 made with python and MySQL. Enhanced with GPT-3 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 
