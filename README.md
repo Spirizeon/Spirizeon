@@ -13,17 +13,19 @@
 <img src = "https://user-images.githubusercontent.com/123345456/219951528-77305135-6268-43c2-b3e8-d01fb6b7e636.svg" height = 50px /> 
 <img src = "https://user-images.githubusercontent.com/123345456/219951529-fcfdff0e-3a73-4285-8a8f-36af8ea8f2da.svg" height = 50px />
 <img src="https://user-images.githubusercontent.com/123345456/219951530-39792dce-3495-4554-bd7f-7671065d1f18.svg" height = 50px /> 
-#
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=spirizeon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"> <img align=auto src="https://github-readme-stats.vercel.app/api?username=spirizeon&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-</br>
-#
-![](https://img.shields.io/badge/15s%20TypeTest-105WPM-brightgreen?style=flat-square&logo=appveyor) ![](https://img.shields.io/badge/30s%20TypeTest-99WPM-blue?style=flat-square&logo=appveyor)
 
 ## My Projects
 - **Harley:** virtual desktop assistant for Windows 10 and 11 made with python and MySQL. Enhanced with GPT-3
 - **Mythril RPG** A menu-driven and console-based text-based RPG that uses math to determine the outcomes of encounters. It uses mathematical expressions, as well as random generation of number in the game mechanics.
 - **Conjectures** A short python script simulating how the Collatz Conjecture works, along with proof for benz's law.
 - **Harleon** An ML-powered discord chatbot that can be used to play with friends or for work assistance.
+
+#
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=spirizeon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"> <img align=auto src="https://github-readme-stats.vercel.app/api?username=spirizeon&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+</br>
+#
+![](https://img.shields.io/badge/15s%20TypeTest-105WPM-brightgreen?style=flat-square&logo=appveyor) ![](https://img.shields.io/badge/30s%20TypeTest-99WPM-blue?style=flat-square&logo=appveyor)
+
 
 # ⚒️ Everyday Tools
 ![](https://img.shields.io/badge/OS-Win-red?style=flat-square&logo=appveyor)
