@@ -1,19 +1,11 @@
 ## 🚀 About Me
 > Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and coder.
 
-👩‍💻 I'm currently working on a native desktop assistant for Windows 10/11
-</br>
-🧠 Exploring about Git, Linux, ML and Laravel 
-</br>
-😄 Pronouns...He/Him/They
-</br>
- 
+- 👩‍💻 I'm currently working on a native desktop assistant for Windows 10/11
+- 🧠 Exploring about Git, Linux, ML and Laravel 
+- 😄 Pronouns...He/Him/They
+
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-## My Projects
-- **Harley:** virtual desktop assistant for Windows 10 and 11 made with python and MySQL. Enhanced with GPT-3
-- **Mythril RPG** A menu-driven and console-based text-based RPG that uses math to determine the outcomes of encounters. It uses mathematical expressions, as well as random generation of number in the game mechanics.
-- **Conjectures** A short python script simulating how the Collatz Conjecture works, along with proof for benz's law.
-- **Harleon** An ML-powered discord chatbot that can be used to play with friends or for work assistance.
 ## 🛠 Skills
 <img src = "https://user-images.githubusercontent.com/123345456/219951515-4da684b9-4cbe-4a8a-99e5-fd9be2cab5eb.svg" height = 50px /> <img src = "https://user-images.githubusercontent.com/123345456/219951517-5692028e-cfe0-4ab5-ba3e-5373701b2908.svg" height = 50px /><img src ="https://user-images.githubusercontent.com/123345456/219951519-b1da0af8-1006-44cd-8bdf-8ddb66dfd336.svg" height = 50px /> <img src ="https://user-images.githubusercontent.com/123345456/219951521-c9a1121c-7a6e-4a9f-9158-a8b84c152123.svg" height = 50px /> <img src ="https://user-images.githubusercontent.com/123345456/219951523-6ea3a84c-e80a-4aad-baaa-da0421380917.svg" height = 50px /> 
 <img src = "https://user-images.githubusercontent.com/123345456/219951526-489da7c1-28f1-4932-be21-ee5934017ac9.svg" height = 50px /> 
@@ -26,6 +18,12 @@
 </br>
 #
 ![](https://img.shields.io/badge/15s%20TypeTest-105WPM-brightgreen?style=flat-square&logo=appveyor) ![](https://img.shields.io/badge/30s%20TypeTest-99WPM-blue?style=flat-square&logo=appveyor)
+
+## My Projects
+- **Harley:** virtual desktop assistant for Windows 10 and 11 made with python and MySQL. Enhanced with GPT-3
+- **Mythril RPG** A menu-driven and console-based text-based RPG that uses math to determine the outcomes of encounters. It uses mathematical expressions, as well as random generation of number in the game mechanics.
+- **Conjectures** A short python script simulating how the Collatz Conjecture works, along with proof for benz's law.
+- **Harleon** An ML-powered discord chatbot that can be used to play with friends or for work assistance.
 
 # ⚒️ Everyday Tools
 ![](https://img.shields.io/badge/OS-Win-red?style=flat-square&logo=appveyor)
