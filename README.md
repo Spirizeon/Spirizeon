@@ -6,9 +6,10 @@
 
 
 
-- 👩‍💻 I'm currently working on a native desktop assistant for Windows 10/11
-- 🧠 Exploring about Git, Linux, ML and Laravel 
-- 😄 Pronouns...He/Him/They 
++ 👩‍💻 I'm currently working on a native desktop assistant for Windows 10/11
++ 🧠 Exploring about Git, Linux, ML and Laravel 
++ 😄 Pronouns...He/Him/They 
+
 
 
 
