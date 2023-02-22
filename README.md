@@ -23,7 +23,7 @@
 <img src="https://user-images.githubusercontent.com/123345456/219951530-39792dce-3495-4554-bd7f-7671065d1f18.svg" height = 50px /> 
 
 ## My Projects
- <img src ="https://user-images.githubusercontent.com/123345456/220529767-376ff9b7-b89d-49b5-908b-c06af4f34428.png" height = "250px" align = "right"/>
+ <img src ="https://user-images.githubusercontent.com/123345456/220529767-376ff9b7-b89d-49b5-908b-c06af4f34428.png" height = "200px" align = "right"/>
 
 - **Harley:** virtual desktop assistant for Windows 10 and 11 made with python and MySQL. Enhanced with GPT-3
 - **Mythril RPG** A menu-driven and console-based text-based RPG that uses math to determine the outcomes of encounters. It uses mathematical expressions, as well as random generation of number in the game mechanics.
