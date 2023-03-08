@@ -3,10 +3,14 @@
 ![Add a heading (1)](https://user-images.githubusercontent.com/123345456/220961939-ff50da6b-c243-4bf5-95ab-67705e4ea5ca.gif)
 
 
-> Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and self-taught developer.
+> Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and self-taught developer + graphic designer.
+
+### Dribbble
+<a href = "https://dribbble.com/Zyree"><img width="497" alt="image" src="https://user-images.githubusercontent.com/123345456/223767377-a5ab1cc3-cd53-429d-b3e5-6f8b3cc4b827.png"></a>
+#### <a href="https://dribbble.com/shots/20856355-Developer-Portfolio">CLICK HERE: Portfolio Design</a>
 
 
-
+## 🪴 About  
 + 👩‍💻 I'm currently working on a native desktop assistant for Windows 10/11
 + 🧠 Exploring about Git, Linux, ML and Laravel 
 + 😄 Pronouns...He/Him/They 
