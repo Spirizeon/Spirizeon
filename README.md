@@ -27,9 +27,8 @@
 #
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spirizeon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> <img src="https://user-images.githubusercontent.com/123345456/220966759-ed3013fd-7aa1-402f-b828-7e590b6baabf.gif" height = "170px" /> 
 
+## 💠Hashnode (Subscribe to my newsletter!)
+<a href="https://zyree.hashnode.dev"><img width="568" alt="image" src="https://user-images.githubusercontent.com/123345456/225580752-35814f37-d89f-4d02-aa90-d416a9afbc8a.png"></a>
 
-## Support me
-Buy a <a href="https://opensea.io/zetacode">super cheap NFT</a> to help me out
-
-
+You can also buy a <a href="https://opensea.io/zetacode">super cheap NFT</a> to help me out
 
