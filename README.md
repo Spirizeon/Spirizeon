@@ -11,7 +11,7 @@
 #### <a href="https://dribbble.com/shots/20856355-Developer-Portfolio">CLICK HERE: Portfolio Design</a>
 
 + 👩‍💻 I'm currently working on a native desktop assistant for Windows 10/11
-+ 🧠 Exploring about Git, Linux, ML and Laravel 
++ 🧠 Exploring about Git, Linux, Discord.py and flask 
 + 😄 Pronouns...He/Him/They 
 
 <a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
