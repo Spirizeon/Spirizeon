@@ -7,7 +7,9 @@
 > Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and self-taught developer + graphic designer.
 
 ### 🏀 Dribbble 
-<a href = "https://dribbble.com/Zyree"><img width="497" alt="image" src="https://user-images.githubusercontent.com/123345456/223767377-a5ab1cc3-cd53-429d-b3e5-6f8b3cc4b827.png"></a>
+<a href = "https://dribbble.com/Zyree"><img width="497" alt="image" src="https://user-images.githubusercontent.com/123345456/232616581-f4dae7e3-f07c-445f-9ec8-5ad5067cb7a8.png"></a>
+
+
 #### <a href="https://dribbble.com/shots/20856355-Developer-Portfolio">CLICK HERE: Portfolio Design</a>
 
 + 👩‍💻 I'm currently working on a native desktop assistant for Windows 10/11
