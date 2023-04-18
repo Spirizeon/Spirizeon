@@ -12,9 +12,6 @@
 
 #### <a href="https://dribbble.com/shots/20856355-Developer-Portfolio">CLICK HERE: Portfolio Design</a>
 
-
-      
-+ 👩‍💻 I'm currently working on a native desktop assistant for Windows 10/11
 + 🧠 Exploring about Git, Linux, Discord.py and flask 
 + 😄 Pronouns...He/Him/They 
 
@@ -36,5 +33,5 @@
 
 You can also buy a <a href="https://opensea.io/zetacode">super cheap NFT</a> to help me out
 
-## README palette
+## 🌈README palette
 ![image](https://user-images.githubusercontent.com/123345456/232891037-12c1c516-c6c6-4b1d-bbf5-1e24df5c2abe.png)
