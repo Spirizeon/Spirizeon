@@ -11,7 +11,7 @@
 
 
 #### <a href="https://dribbble.com/shots/20856355-Developer-Portfolio">CLICK HERE: Portfolio Design</a>
-
++ ✏️ Learning UI/UX design
 + 🧠 Exploring about Git, Linux, Discord.py and flask 
 + 😄 Pronouns...He/Him/They 
 
