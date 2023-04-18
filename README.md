@@ -24,7 +24,7 @@
 - **Mythril RPG** A menu-driven and console-based text-based RPG that uses math to determine the outcomes of encounters. It uses mathematical expressions, as well as random generation of number in the game mechanics.
 - **Conjectures** A short python script simulating how the Collatz Conjecture works, along with proof for benz's law.
 - **Harleon** An ML-powered discord chatbot that can be used to play with friends or for work assistance.
-
+- **AesthetiCalc** A minimal calculator app that is both functional and aesthetically pleasing 
 #
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spirizeon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> <img src="https://user-images.githubusercontent.com/123345456/220966759-ed3013fd-7aa1-402f-b828-7e590b6baabf.gif" height = "170px" /> 
 
