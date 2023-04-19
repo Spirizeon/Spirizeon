@@ -1,13 +1,10 @@
 
 
 ![Add a heading (1)](https://user-images.githubusercontent.com/123345456/220961939-ff50da6b-c243-4bf5-95ab-67705e4ea5ca.gif)
-
+<img src="https://profile-counter.glitch.me/{spirizeon}/count.svg" alt="spirizeon :: Visitor's Count" />
 ## 🪴 About  
 
 > Student, I love coffee, ricing and FOSS. I'm also a hardcore audiophile and self-taught developer + graphic designer.
-
-### 🏀 Dribbble 
-<a href = "https://dribbble.com/Zyree"><img width="497" alt="image" src="https://user-images.githubusercontent.com/123345456/232616581-f4dae7e3-f07c-445f-9ec8-5ad5067cb7a8.png"></a>
 
 
 #### <a href="https://dribbble.com/shots/20856355-Developer-Portfolio">CLICK HERE: Portfolio Design</a>
@@ -15,9 +12,6 @@
 + 🧠 Exploring about Git, Linux, Discord.py and flask 
 + 🎙️ Sharing blogs
 + 😄 Pronouns...He/Him/They 
-
-<a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
 ## 🛠 Skills
 ![jd](https://user-images.githubusercontent.com/123345456/220969961-bc130051-c9bc-443e-9cab-af0c813169ba.gif)
 ### My Work
@@ -29,10 +23,13 @@
 - Created a minimal and aesthetic linux configuration for app development, based on AwesomeWM
 - Wrote **CleverScripts**, a short collection of microblogs and scripts that can be used as useful utility.
 #
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=spirizeon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> <img src="https://user-images.githubusercontent.com/123345456/220966759-ed3013fd-7aa1-402f-b828-7e590b6baabf.gif" height = "170px" /> 
 
-## 💠Hashnode (Subscribe to my newsletter!)
-<a href="https://zyree.hashnode.dev"><img width="568" alt="image" src="https://user-images.githubusercontent.com/123345456/225580752-35814f37-d89f-4d02-aa90-d416a9afbc8a.png"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spirizeon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+### 🏀 Dribbble 
+<a href = "https://dribbble.com/Zyree"><img width="497" alt="image" src="https://user-images.githubusercontent.com/123345456/232616581-f4dae7e3-f07c-445f-9ec8-5ad5067cb7a8.png"></a>
+
+### <a href="https://zyree.hashnode.dev">💠Hashnode Blog</a>
 
 You can also buy a <a href="https://opensea.io/zetacode">super cheap NFT</a> to help me out
 
