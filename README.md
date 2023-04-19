@@ -12,7 +12,7 @@
 + 😄 Pronouns...He/Him/They 
 ## 🛠 Skills
 ![jd](https://user-images.githubusercontent.com/123345456/220969961-bc130051-c9bc-443e-9cab-af0c813169ba.gif)
-### My Work
+### ✨My Work
 - **Harley:** virtual desktop assistant for Windows 10 and 11 made with Python and MySQL. Enhanced with GPT-3
 - **Mythril RPG** A menu-driven and console-based text-based RPG that uses math to determine the outcomes of encounters. It uses mathematical expressions, as well as random generation of number in the game mechanics.
 - **Conjectures** A short python script simulating how the Collatz Conjecture works, along with proof for benz's law.
