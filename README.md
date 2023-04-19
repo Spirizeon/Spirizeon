@@ -20,12 +20,14 @@
 
 ## 🛠 Skills
 ![jd](https://user-images.githubusercontent.com/123345456/220969961-bc130051-c9bc-443e-9cab-af0c813169ba.gif)
-### My Projects
-- **Harley:** virtual desktop assistant for Windows 10 and 11 made with python and MySQL. Enhanced with GPT-3
+### My Work
+- **Harley:** virtual desktop assistant for Windows 10 and 11 made with Python and MySQL. Enhanced with GPT-3
 - **Mythril RPG** A menu-driven and console-based text-based RPG that uses math to determine the outcomes of encounters. It uses mathematical expressions, as well as random generation of number in the game mechanics.
 - **Conjectures** A short python script simulating how the Collatz Conjecture works, along with proof for benz's law.
-- **Harleon** An ML-powered discord chatbot that can be used to play with friends or for work assistance.
-- **AesthetiCalc** A minimal calculator app that is both functional and aesthetically pleasing 
+- Made **Harleon**, A discord chatbot that uses OpenAi's GPT-3 API with discord.py which can be used to play with friends or for work assistance.
+- Designed the UI for **AesthetiCalc**. A minimal calculator app that is both functional and aesthetically pleasing
+- Created a minimal and aesthetic linux configuration for app development, based on AwesomeWM
+- Wrote **CleverScripts**, a short collection of microblogs and scripts that can be used as useful utility.
 #
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spirizeon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> <img src="https://user-images.githubusercontent.com/123345456/220966759-ed3013fd-7aa1-402f-b828-7e590b6baabf.gif" height = "170px" /> 
 
