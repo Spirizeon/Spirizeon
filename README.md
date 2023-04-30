@@ -8,7 +8,7 @@
 
 + ✏️ Learning UI/UX design
 + 🧠 Exploring about Git, Linux, Discord.py and flask 
-+ 🎙️ Sharing blogs
++ 🎙️ Sharing blogs about IT
 + 😄 Pronouns...He/Him/They 
 ## 🛠 Skills
 ![jd](https://user-images.githubusercontent.com/123345456/220969961-bc130051-c9bc-443e-9cab-af0c813169ba.gif)
