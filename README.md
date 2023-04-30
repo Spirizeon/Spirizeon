@@ -1,9 +1,10 @@
 
 
-![Add a heading (1)](https://user-images.githubusercontent.com/123345456/220961939-ff50da6b-c243-4bf5-95ab-67705e4ea5ca.gif)
+![image](https://user-images.githubusercontent.com/123345456/235361610-1a894163-3651-4e52-a10f-29e8dde145b4.png)
+
 <img src="https://profile-counter.glitch.me/{spirizeon}/count.svg" alt="spirizeon :: Visitor's Count" />  
 
-> Student (he/him/they), I love coffee, ricing and FOSS. I'm also a hardcore audiophile and self-taught developer + graphic designer.
+>I love coffee, ricing and FOSS. I'm also a hardcore audiophile and self-taught developer + graphic designer.
  
 ## 🧠 Exploring about 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
