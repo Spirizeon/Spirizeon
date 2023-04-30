@@ -26,8 +26,8 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spirizeon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+#
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spirizeon&theme=gruvbox&\={exclude}" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spirizeon&theme=gruvbox&exclude={exclude}" />
 
 ### ✨My Work
 - **Harley:** virtual desktop assistant for Windows 10 and 11 made with Python and MySQL. Enhanced with GPT-3
