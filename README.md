@@ -8,8 +8,13 @@
  
 ## 🧠 Exploring about 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-+ 🎙️ Blogs on IT (also sharing!)
- 
+
+## ✏️ Sharing Blogs
++ <a href="https://zyree.hashnode.dev/bridge-whatsapp-to-discord">Bridge Whatsapp to Discord</a>
++ <a href="https://zyree.hashnode.dev/a-wsl-rice-for-debian-linux-win-11">A WSL-Rice for Windows 11</a>
++ <a href="https://zyree.hashnode.dev/a-decent-opera-alternative">A decent Opera alternative</a>
+
+
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -39,10 +44,10 @@
 
 
 ### 🏀 Find me on
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
-![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)
+<a href="https://leetcode.com/Spirizeon/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
+<a href="https://dribbble.com/Zeta"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+<a href="https://zyree.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)" /></a>
+<a href="https://opensea.io/zeta"><img src="https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white" /></a>
 
 
 #### <a href="https://dribbble.com/shots/20856355-Developer-Portfolio">CLICK HERE: Dev Portfolio Design (web) </a>
