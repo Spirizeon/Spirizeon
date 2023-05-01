@@ -1,5 +1,5 @@
 
-![#Welcome](https://user-images.githubusercontent.com/123345456/235441139-f2c578f0-70d8-4b8c-815a-68c7317115d2.png)
+<img src="https://i.imgur.com/UlZPuk8.jpg" />
  
 ## 🧠 Exploring about 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
