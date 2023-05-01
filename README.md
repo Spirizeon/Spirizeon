@@ -1,8 +1,5 @@
 
-
-![image](https://user-images.githubusercontent.com/123345456/235361610-1a894163-3651-4e52-a10f-29e8dde145b4.png)
-
-<img src="https://profile-counter.glitch.me/{spirizeon}/count.svg" alt="spirizeon :: Visitor's Count" />  
+![#Welcome](https://user-images.githubusercontent.com/123345456/235441139-f2c578f0-70d8-4b8c-815a-68c7317115d2.png)
  
 ## 🧠 Exploring about 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -49,4 +46,4 @@
 
 
 #### <a href="https://dribbble.com/shots/20856355-Developer-Portfolio">CLICK HERE: Dev Portfolio Design (web) </a>
-
+<img src="https://profile-counter.glitch.me/{spirizeon}/count.svg" alt="spirizeon :: Visitor's Count" />  
