@@ -47,6 +47,8 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 ### 🏀 Find me on
+![My Discord](https://discord-readme-badge.vercel.app/api?id=1031196479337013338)
+</br>
 <a href="https://leetcode.com/Spirizeon/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
 <a href="https://dribbble.com/Zeta"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
 <a href="https://zyree.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)" /></a>
@@ -54,4 +56,5 @@
 
 
 #### <a href="https://dribbble.com/shots/20856355-Developer-Portfolio">CLICK HERE: Dev Portfolio Design (web) </a>
+
 <img src="https://profile-counter.glitch.me/{spirizeon}/count.svg" alt="spirizeon :: Visitor's Count" />  
