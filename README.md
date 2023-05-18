@@ -2,10 +2,6 @@
 
 ![#Welcome](https://user-images.githubusercontent.com/123345456/236623540-0b65049d-74f8-4842-a8a6-259c97835dc2.png)
 
- 
-## 🧠 Exploring about 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 ## ✏️ Sharing Blogs
 + <a href="https://zyree.hashnode.dev/bridge-whatsapp-to-discord">Bridge Whatsapp to Discord</a>
 + <a href="https://zyree.hashnode.dev/a-wsl-rice-for-debian-linux-win-11">A WSL-Rice for Windows 11</a>
