@@ -9,7 +9,7 @@
 ## ✏️ Sharing Blogs
 + <a href="https://zyree.hashnode.dev/bridge-whatsapp-to-discord">Bridge Whatsapp to Discord</a>
 + <a href="https://zyree.hashnode.dev/a-wsl-rice-for-debian-linux-win-11">A WSL-Rice for Windows 11</a>
-+ <a href="https://zyree.hashnode.dev/a-decent-opera-alternative">A decent Opera alternative</a>
++ <a href="https://zyree.hashnode.dev/code-tale-1">SSH, Helix and Terminal ChatGPT</a>
 
 
 ## 🛠 Skills
