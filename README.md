@@ -19,6 +19,7 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 #
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spirizeon&theme=gruvbox&\={exclude}" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spirizeon&theme=gruvbox&exclude={exclude}" />
 
