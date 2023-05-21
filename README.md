@@ -2,17 +2,8 @@
 
 ![#Welcome](https://user-images.githubusercontent.com/123345456/236623540-0b65049d-74f8-4842-a8a6-259c97835dc2.png)
 
-## ✏️ Sharing Blogs
-+ <a href="https://zyree.hashnode.dev/bridge-whatsapp-to-discord">Bridge Whatsapp to Discord</a>
-+ <a href="https://zyree.hashnode.dev/a-wsl-rice-for-debian-linux-win-11">A WSL-Rice for Windows 11</a>
-+ <a href="https://zyree.hashnode.dev/code-tale-1">SSH, Helix and Terminal ChatGPT</a>
-
-👉 <a href="https://zyree.hashnode.dev/">**Read More**</a>
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=python,dart,css,html,mysql,powershell,markdown,latex,git,vim,replit)](https://skillicons.dev)
-
-#
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spirizeon&theme=gruvbox&\={exclude}" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spirizeon&theme=gruvbox&exclude={exclude}" />
 
 ### ✨My Work
 - **Harley:** virtual desktop assistant for Windows 10 and 11 made with Python and MySQL. Enhanced with GPT-3
@@ -34,15 +25,28 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
+## ✏️ Sharing Blogs
++ <a href="https://zyree.hashnode.dev/bridge-whatsapp-to-discord">Bridge Whatsapp to Discord</a>
++ <a href="https://zyree.hashnode.dev/a-wsl-rice-for-debian-linux-win-11">A WSL-Rice for Windows 11</a>
++ <a href="https://zyree.hashnode.dev/code-tale-1">SSH, Helix and Terminal ChatGPT</a>
++ 👉 <a href="https://zyree.hashnode.dev/">**Read More**</a>
+
+
 ### 🏀 Find me on
+#### Discord
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=1031196479337013338)
-</br>
+### Others
 <a href="https://leetcode.com/Spirizeon/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
 <a href="https://dribbble.com/Zeta"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
 <a href="https://zyree.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)" /></a>
 <a href="https://opensea.io/zeta"><img src="https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white" /></a>
 
 
-#### <a href="https://dribbble.com/shots/20856355-Developer-Portfolio">CLICK HERE: Dev Portfolio Design (web) </a>
 
+### 📈 Profile stats
+#### Counter
 <img src="https://profile-counter.glitch.me/{spirizeon}/count.svg" alt="spirizeon :: Visitor's Count" />  
+
+#### Cards
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spirizeon&theme=gruvbox&\={exclude}" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spirizeon&theme=gruvbox&exclude={exclude}" />
