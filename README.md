@@ -7,7 +7,7 @@
 + <a href="https://zyree.hashnode.dev/a-wsl-rice-for-debian-linux-win-11">A WSL-Rice for Windows 11</a>
 + <a href="https://zyree.hashnode.dev/code-tale-1">SSH, Helix and Terminal ChatGPT</a>
 
-
+👉 <a href="https://zyree.hashnode.dev/">**Read More**</a>
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
