@@ -1,6 +1,5 @@
 
-
-![#Welcome](https://user-images.githubusercontent.com/123345456/236623540-0b65049d-74f8-4842-a8a6-259c97835dc2.png)
+![#Welcome](https://github.com/Spirizeon/Spirizeon/assets/123345456/e129a870-6761-46cb-bc83-f2a8cc673e0d)
 
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=python,dart,css,html,mysql,powershell,markdown,latex,git,vim,replit)](https://skillicons.dev)
