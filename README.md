@@ -2,7 +2,7 @@
 ![#Welcome](https://github.com/Spirizeon/Spirizeon/assets/123345456/e129a870-6761-46cb-bc83-f2a8cc673e0d)
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,dart,css,html,mysql,powershell,markdown,latex,git,vim,replit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,dart,css,html,mysql,powershell,markdown,latex,git,vim,replit)](https://skillicons.dev) <img src="https://github.com/Spirizeon/Spirizeon/assets/123345456/eec19d4f-a458-434a-a111-7c72c28247d3" height="50px" width="50px" />
 
 ### ✨My Work
 - **Harley:** virtual desktop assistant for Windows 10 and 11 made with Python and MySQL. Enhanced with GPT-3
