@@ -13,10 +13,11 @@
 - Created a minimal and aesthetic linux configuration for app development, based on AwesomeWM
 - Wrote **CleverScripts**, a short collection of microblogs and scripts that can be used as useful utility.
 
-## Courses 
+### ⌨️Courses 
 - **Intro to Cybersecurity** - Cisco
 - **DevOps with Docker** - University of Helsinki
 - **Python for everybody** - University of Michigan
+- **Data Science foundations** - Indian Institute of Technology, Madras
 
 #
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spirizeon&theme=gruvbox)
