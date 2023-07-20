@@ -12,6 +12,12 @@
 - Designed the UI for **AesthetiCalc**. A minimal calculator app that is both functional and aesthetically pleasing
 - Created a minimal and aesthetic linux configuration for app development, based on AwesomeWM
 - Wrote **CleverScripts**, a short collection of microblogs and scripts that can be used as useful utility.
+
+## Courses 
+- **Intro to Cybersecurity** - Cisco
+- **DevOps with Docker** - University of Helsinki
+- **Python for everybody** - University of Michigan
+
 #
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spirizeon&theme=gruvbox)
 
@@ -33,7 +39,7 @@
 
 
 ### 🏀 Find me on
-#### Discord
+#### Discord_
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=1031196479337013338)
 ### Others
 <a href="https://leetcode.com/Spirizeon/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
