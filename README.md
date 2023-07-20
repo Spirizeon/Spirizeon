@@ -13,7 +13,7 @@
 - Created a minimal and aesthetic linux configuration for app development, based on AwesomeWM
 - Wrote **CleverScripts**, a short collection of microblogs and scripts that can be used as useful utility.
 
-### ⌨️Courses 
+### ⚡Courses enrolled
 - **Intro to Cybersecurity** - Cisco
 - **DevOps with Docker** - University of Helsinki
 - **Python for everybody** - University of Michigan
