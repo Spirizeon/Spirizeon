@@ -15,6 +15,7 @@
 
 ### ⚡Courses enrolled
 - **Intro to Cybersecurity** - Cisco
+- **Getting started with Cisco Packet Tracer** - Cisco
 - **DevOps with Docker** - University of Helsinki
 - **Python for everybody** - University of Michigan
 - **Data Science foundations** - Indian Institute of Technology, Madras
