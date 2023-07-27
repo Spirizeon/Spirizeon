@@ -18,7 +18,7 @@
 - **Getting started with Cisco Packet Tracer** - Cisco
 - **DevOps with Docker** - University of Helsinki
 - **Python for everybody** - University of Michigan
-- **Data Science foundations** - Indian Institute of Technology, Madras
+- **Data Science Foundations** - IITM CODE
 
 #
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spirizeon&theme=gruvbox)
