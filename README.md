@@ -1,29 +1,26 @@
 ## 🛠-Skills directory
 ```
 spirizeon ~:# cd 🛠-Skills
-spirizeon ~/🛠-Skills:# ls -l | grep scripting && cat scripting
-drw-r--r-- scripting
-> python
-> powershell
-
-
-spirizeon ~/🛠-Skills:# docker compose run 
-... Writing YAML files
-... Creating docker containers
-DONE!
-
-
-spirizeon ~/🛠-Skills:# git add markdown-file.md orgmode-file.org latex-file.tex
-spirizeon ~/🛠-Skills:# git commit -m "EXPLORING VERSION CONTROL"
-
-
-spirizeon ~/🛠-Skills:# ls web-skills
-i-know.html
-i-know.css
-
-
-spirizeon ~/🛠-Skills:# sudo systemctl start mysql
-The skill mysql has been learnt successfully!
+spirizeon ~/🛠-Skills:# ls -l | grep skilltree && cat skilltree
+-rw-r--r-- skilltree
+... Python-3
+... Powershell
+... YAML
+... Docker
+... ... Docker-compose
+... Git
+... ... Github
+... Markups
+... ... Markdown
+... ... Org-mode
+... ... LaTeX
+... Web
+... ... HTML
+... ... CSS
+... Databases
+... ... MySQL
+spirizeon ~/🛠-Skills:# sudo systemctl start keep-learning
+The service keep-learning has been started successfully!
 ```
 
 ## ✨-Projects file
