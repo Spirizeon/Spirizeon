@@ -1,6 +1,4 @@
-
-![#Welcome](https://github.com/Spirizeon/Spirizeon/assets/123345456/e129a870-6761-46cb-bc83-f2a8cc673e0d)
-## 🛠-skills directory
+## 🛠-Skills directory
 ```
 spirizeon ~:# cd 🛠-Skills
 spirizeon ~/🛠-Skills:# ls -l | grep scripting && cat scripting
