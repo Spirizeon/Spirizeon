@@ -53,13 +53,13 @@ spirizeon ~/🛠-Skills:# ls -l ⚡-Courses
 
 ## ✏️ Sharing Blogs
 ```
-spirizeon ~/🛠-Skills:# cd .. && curl https://zyree.hashnode.dev
-```
-+ <a href="https://zyree.hashnode.dev/bridge-whatsapp-to-discord">Bridge Whatsapp to Discord</a>
-+ <a href="https://zyree.hashnode.dev/a-wsl-rice-for-debian-linux-win-11">A WSL-Rice for Windows 11</a>
-+ <a href="https://zyree.hashnode.dev/code-tale-1">SSH, Helix and Terminal ChatGPT</a>
-+ 👉 <a href="https://zyree.hashnode.dev/">**Read More**</a>
+spirizeon ~/🛠-Skills:# cd .. && curl BLOGSITE
 
++ Bridge Whatsapp to Discord
++ Host your own search engine
++ SSH, Helix and Terminal ChatGPT
++ 👉 READ MORE @ https://zyree.hashnode.dev/
+```
 
 ## 🏀 Socials
 
