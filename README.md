@@ -3,32 +3,10 @@
 spirizeon ~:# cd 🛠-Skills
 spirizeon ~/🛠-Skills:# ls -l | grep skilltree && cat skilltree
 -rw-r--r-- skilltree
+```
+`.py`,`.ps1`,`Dockerfile`,`docker-compose.yml`,`.yaml`,`.git`,`.md`,`.tex`,`.html`,`.css`,`mysql`,`.org`
 
-SPIRIZEON'S SKILLTREE
-=====================
-... Python-3
-... Powershell
-
-... Docker
-... >> Docker-compose
-... >> YAML
-
-... Git
-... >> Github
-
-... Markups
-... >> Markdown
-... >> Org-mode
-... >> LaTeX
-
-... Web
-... >> HTML
-... >> CSS
-
-... Databases
-... >> MySQL
-=====================
-
+```
 spirizeon ~/🛠-Skills:# sudo systemctl start keep-learning
 The service keep-learning has been started successfully!
 ```
