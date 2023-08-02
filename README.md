@@ -14,8 +14,9 @@ The service keep-learning has been started successfully!
 ## ✨-Projects file
 ```
 spirizeon ~/🛠-Skills:# neovim ../✨-Projects.md
+```
 
-
+```
 1 Harley: virtual desktop assistant for Windows 10 and 11 made with Python and MySQL. Enhanced with GPT-3
 2 Mythril RPG: A menu-driven and console-based text-based RPG that uses math to determine the outcomes of encounters. It uses mathematical expressions, as well as random generation of number in the game mechanics.
 3 Harleon: A discord chatbot that uses OpenAi's GPT-3 API with discord.py which can be used to play with friends or for work assistance.
