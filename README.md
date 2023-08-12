@@ -42,13 +42,11 @@ spirizeon ~/🛠-Skills:# ls -l ⚡-Courses
 
 ## ✏️ Sharing Blogs
 ```
-spirizeon ~/🛠-Skills:# cd .. && curl BLOGSITE
-
-+ Bridge Whatsapp to Discord
-+ Host your own search engine
-+ SSH, Helix and Terminal ChatGPT
-+ 👉 READ MORE @ https://zyree.hashnode.dev/
+spirizeon ~/🛠-Skills:# cd .. && curl https://zyree.hashnode.dev
 ```
++ `Bridge Whatsapp to Discord`
++ `Host your own search engine`
++ `SSH, Helix and Terminal ChatGPT`
 
 ## 🏀 Socials
 
