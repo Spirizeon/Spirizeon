@@ -4,7 +4,7 @@ spirizeon ~:# cd 🛠-Skills
 spirizeon ~/🛠-Skills:# ls -l | grep skilltree && cat skilltree
 -rw-r--r-- skilltree
 ```
-`.py`,`.ps1`,`Dockerfile`,`docker-compose.yml`,`.yaml`,`.git`,`.md`,`.tex`,`.html`,`.css`,`mysql`,`.org`,`Actions`,`.sh`
+`.py`,`.ps1`,`Dockerfile`,`docker-compose.yml`,`.yaml`,`.git`,`.md`,`.tex`,`.html`,`.css`,`mysql`,`.org`,`Actions`,`.sh`,`RegEx`
 
 ```
 spirizeon ~/🛠-Skills:# sudo systemctl start keep-learning
