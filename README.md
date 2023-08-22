@@ -35,6 +35,7 @@ spirizeon ~/🛠-Skills:# ls -l ⚡-Courses
 -rwxrwxrw- DevOps with Docker                        University of Helsinki
 -rwxrwxrwx Python for everybody                      University of Michigan
 -rwxr--r-- Data Science Foundations                  IITM CODE
+-rwxrwxrw- Generative Ai fundamentals                Google 
 ``` 
 #
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spirizeon&theme=gruvbox)
