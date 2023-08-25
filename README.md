@@ -11,33 +11,6 @@ spirizeon ~/🛠-Skills:# sudo systemctl start keep-learning
 The service keep-learning has been started successfully!
 ```
 
-## ✨-Projects file
-```
-spirizeon ~/🛠-Skills:# neovim ../✨-Projects.md
-```
-
-```
-1 Harley: virtual desktop assistant for Windows 10 and 11 made with Python and MySQL. Enhanced with GPT-3
-2 Mythril RPG: A menu-driven and console-based text-based RPG that uses math to determine the outcomes of encounters. It uses mathematical expressions, as well as random generation of number in the game mechanics.
-3 Harleon: A discord chatbot that uses OpenAi's GPT-3 API with discord.py which can be used to play with friends or for work assistance.
-4 Designed the UI for **AesthetiCalc**. A minimal calculator app that is both functional and aesthetically pleasing
-5 Created a minimal and aesthetic linux configuration for app development, based on AwesomeWM
-6 Wrote **CleverScripts**, a short collection of microblogs and scripts that can be used as useful utility❚
-
-:q!
-```
-### ⚡-Courses directory
-```
-spirizeon ~/🛠-Skills:# ls -l ⚡-Courses
-
--rwxrwxrwx Intro to Cybersecurity                    Cisco
--rwxrwxr-- Getting started with Cisco Packet Tracer  Cisco
--rwxrwxrw- DevOps with Docker                        University of Helsinki
--rwxrwxrwx Python for everybody                      University of Michigan
--rwxr--r-- Data Science Foundations                  IITM CODE
--rwxrwxrw- Generative Ai fundamentals                Google 
-``` 
-#
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spirizeon&theme=gruvbox)
 
 
