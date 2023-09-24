@@ -1,23 +1,31 @@
-## 🛠-Skills directory
-```
-spirizeon ~:# cd 🛠-Skills
-spirizeon ~/🛠-Skills:# ls -l | grep skilltree && cat skilltree
--rw-r--r-- skilltree
-```
-`python3`,`powershell`,`Dockerfile`,`docker-compose`,`YAML`,`Git`,`markdown`,`LaTeX`,`HTML`,`CSS`,`MySQL`,`Org-mode`,`Github Actions`,`Bash`,`RegEx`
+<div align="center">
+  <h2>Hello There, Fellow Developers, I am Ayush <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+  
+<div align="center">
 
-```
-spirizeon ~/🛠-Skills:# sudo systemctl start keep-learning
-The service keep-learning has been started successfully!
-```
+CS Undergraduate | DevOps specialist | UI & UX Designer | Cybersec Enthuse
+
+</div>
+
+</div>
+
+<div align="center">
+    
+🔭 Currently learning machine learning to work on thermal vision biometrics.<br>👯 Looking to collaborate on Open Source Projects.<br>💬 Ask me anything. <br>⚡ Fun fact: I love working on the backend. <br> &#128231; Reach me at my **<a href="mailto:spirizeon@proton.me"><b>Email.</b></a>**
+</div>
+<br>
+
+## 🛠-Skills directory
+
+`python3`,`powershell`,`Dockerfile`,`docker-compose`,`YAML`,`Git`,`markdown`,`LaTeX`,`HTML`,`CSS`,`MySQL`,`Org-mode`,`Github Actions`,`Bash`,`RegEx`,`numpy` 
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spirizeon&theme=gruvbox)
 
 
 ## ✏️ Sharing Blogs
-```
-spirizeon ~/🛠-Skills:# cd .. && curl https://zyree.hashnode.dev
-```
+https://zyree.hashnode.dev
+
 + `Bridge Whatsapp to Discord`
 + `Host your own search engine`
 + `SSH, Helix and Terminal ChatGPT`
