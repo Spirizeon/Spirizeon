@@ -3,7 +3,7 @@
   
 <div align="center">
 
-CS Undergraduate | DevOps specialist | UI & UX Designer | Cybersec Enthuse
+CS Undergraduate | DevOps specialist | UI & UX Designer | Cybersec Enthuse | 100+ WPM
 
 </div>
 
@@ -11,11 +11,11 @@ CS Undergraduate | DevOps specialist | UI & UX Designer | Cybersec Enthuse
 
 <div align="center">
     
-🔭 Currently learning machine learning to work on thermal vision biometrics.<br>👯 Looking to collaborate on Open Source Projects.<br>💬 Ask me anything. <br>⚡ Fun fact: I love working on the backend. <br> &#128231; Reach me at my **<a href="mailto:spirizeon@proton.me"><b>Email.</b></a>**
+🔭 Currently learning machine learning to work on thermal vision biometrics.<br>👯 Looking to collaborate on Open Source Projects.<br>💬 Ask me anything. <br>⚡ Fun fact: I love modal editors. <br> &#128231; Reach me on my <a href="https://www.linkedin.com/in/ayush-dutta-422a08289/"><b>Linkedin.</b></a>
 </div>
 <br>
 
-## 🛠-Skills directory
+## 🛠-Skill stack
 
 `python3`,`powershell`,`Dockerfile`,`docker-compose`,`YAML`,`Git`,`markdown`,`LaTeX`,`HTML`,`CSS`,`MySQL`,`Org-mode`,`Github Actions`,`Bash`,`RegEx`,`numpy` 
 
@@ -23,9 +23,7 @@ CS Undergraduate | DevOps specialist | UI & UX Designer | Cybersec Enthuse
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spirizeon&theme=gruvbox)
 
 
-## ✏️ Sharing Blogs
-https://zyree.hashnode.dev
-
+## <a href="https://zyree.hashnode.dev">✏️ Sharing Blogs</a>
 + `Bridge Whatsapp to Discord`
 + `Host your own search engine`
 + `SSH, Helix and Terminal ChatGPT`
@@ -37,7 +35,6 @@ https://zyree.hashnode.dev
 <a href="https://leetcode.com/Spirizeon/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
 <a href="https://dribbble.com/Zeta"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
 <a href="https://zyree.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)" /></a>
-<a href="https://opensea.io/zeta"><img src="https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white" /></a>
 <a href="https://hackerrank.com/spirizeon"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black"/></a>
 
 
