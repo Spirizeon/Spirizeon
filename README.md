@@ -16,9 +16,20 @@ CS Undergraduate | DevOps specialist | UI & UX Designer | Cybersec Enthuse | 100
 <br>
 
 ## 🛠-Skill stack
-
-`python3`,`powershell`,`Dockerfile`,`docker-compose`,`YAML`,`Git`,`markdown`,`LaTeX`,`HTML`,`CSS`,`MySQL`,`Org-mode`,`Github Actions`,`Bash`,`RegEx`,`numpy` 
-
+- Python3 + Numpy
+- Powershell + Bash
+- Dockerfile + Docker compose
+- Git + Github
+- Markdown + LaTeX
+- HTML + CSS
+- MySQL
+- Actions + Workflows
+- RegEx
+- Dart
+- Canva
+- VSCode + Neovim
+- Jupyter + Google Collaboratory
+- Replit + VMWare
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spirizeon&theme=gruvbox)
 
