@@ -16,20 +16,37 @@ CS Undergraduate | DevOps specialist | UI & UX Designer | Cybersec Enthuse | 100
 <br>
 
 ## 🛠-Skill stack
-- Python3 + Numpy
-- Powershell + Bash
-- Dockerfile + Docker compose
-- Git + Github
-- Markdown + LaTeX
-- HTML + CSS
-- MySQL
-- Actions + Workflows
-- RegEx
-- Dart
-- Canva
-- VSCode + Neovim
-- Jupyter + Google Collaboratory
-- Replit + VMWare
+<table> 
+<tr>
+<td>Python3 + Numpy</td>
+<td>Actions + Workflows</td>
+</tr>
+<tr>
+<td>Powershell + Bash</td>
+<td>RegEx</td>
+</tr>
+<tr>
+<td>Dockerfile + Docker compose</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td>Git + Github</td>
+<td>Canva</td>
+</tr>
+<tr>
+<td>Markdown + LaTeX</td>
+<td>VSCode + Neovim</td>
+</tr>
+<tr>
+<td>HTML + CSS</td>
+<td>Jupyter + Google Collaboratory</td>
+</tr>
+<tr>
+<td>MySQL</td>
+<td>Replit + VMWare</td>
+</tr>
+</table>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spirizeon&theme=gruvbox)
 
