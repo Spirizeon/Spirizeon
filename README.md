@@ -11,7 +11,7 @@ CS Undergraduate | DevOps specialist | UI & UX Designer | Cybersec Enthuse | 100
 
 <div align="center">
     
-🔭 Currently learning machine learning to work on computer vision.<br>👯 Looking to collaborate on Open Source Projects.<br>💬 Ask me anything. <br>⚡ Fun fact: I love modal editors. <br> &#128231; Reach me on my <a href="https://www.linkedin.com/in/ayush-dutta-422a08289/"><b>Linkedin.</b></a>
+🔭 Currently learning machine learning to work on computer vision.<br> Earning experience from hackathons.<br>💬 Ask me anything. <br>⚡ Fun fact: I love modal editors. <br> &#128231; Reach me on my <a href="https://www.linkedin.com/in/ayush-dutta-422a08289/"><b>Linkedin.</b></a>
 </div>
 <br>
 
