@@ -15,6 +15,14 @@ CS Undergraduate | DevOps specialist | UI & UX Designer | Cybersec Enthuse | 100
 </div>
 <br>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spirizeon&theme=gruvbox)
+
+
+## <a href="https://zyree.hashnode.dev">✏️ Sharing Blogs</a>
++ `Bridge Whatsapp to Discord`
++ `Host your own search engine`
++ `SSH, Helix and Terminal ChatGPT`
+
 ## 🛠-Skill stack
 <table> 
 <tr>
@@ -48,13 +56,9 @@ CS Undergraduate | DevOps specialist | UI & UX Designer | Cybersec Enthuse | 100
 </table>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spirizeon&theme=gruvbox)
 
 
-## <a href="https://zyree.hashnode.dev">✏️ Sharing Blogs</a>
-+ `Bridge Whatsapp to Discord`
-+ `Host your own search engine`
-+ `SSH, Helix and Terminal ChatGPT`
+
 
 ## 🏀 Socials
 
