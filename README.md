@@ -27,7 +27,7 @@ CS Undergraduate | DevOps specialist | UI & UX Designer | Cybersec Enthuse | 100
 ## 🛠-Skill stack
 <table> 
 <tr>
-<td>Python3 + Numpy</td>
+<td>Python3</td>
 <td>Actions + Workflows</td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ CS Undergraduate | DevOps specialist | UI & UX Designer | Cybersec Enthuse | 100
 </tr>
 <tr>
 <td>Git + Github</td>
-<td>Canva</td>
+<td>Numpy + Pandas</td>
 </tr>
 <tr>
 <td>Markdown + LaTeX</td>
