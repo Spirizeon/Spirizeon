@@ -72,4 +72,7 @@ CS Undergraduate | DevOps specialist | UI & UX Designer | Cybersec Enthuse | 100
 
 
 <img src="https://profile-counter.glitch.me/{spirizeon}/count.svg" alt="spirizeon :: Visitor's Count" />  
+
+![An image of @spirizeon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spirizeon)
+
 </div>
