@@ -15,9 +15,10 @@ CS Undergraduate | DevOps specialist | UI & UX Designer | Cybersec Enthuse | 100
 </div>
 <br>
 
+<div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spirizeon&theme=gruvbox)
 
-<div align="center">
+
 
 ## <a href="https://zyree.hashnode.dev">✏️ Sharing Blogs</a>
  `Bridge Whatsapp to Discord`
@@ -25,36 +26,25 @@ CS Undergraduate | DevOps specialist | UI & UX Designer | Cybersec Enthuse | 100
  `SSH, Helix and Terminal ChatGPT`
 
 ## 🛠-Skill stack
-<table> 
-<tr>
-<td>Python3</td>
-<td>Actions + Workflows</td>
-</tr>
-<tr>
-<td>Powershell + Bash</td>
-<td>RegEx</td>
-</tr>
-<tr>
-<td>Dockerfile + Docker compose</td>
-<td>Dart</td>
-</tr>
-<tr>
-<td>Git + Github</td>
-<td>Numpy + Pandas</td>
-</tr>
-<tr>
-<td>Markdown + LaTeX</td>
-<td>VSCode + Neovim</td>
-</tr>
-<tr>
-<td>HTML + CSS</td>
-<td>Jupyter + Google Collaboratory</td>
-</tr>
-<tr>
-<td>MySQL</td>
-<td>Replit + VMWare</td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spirizeon&theme=gruvbox&exclude={exclude}) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spirizeon&theme=gruvbox&exclude={exclude}) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=spirizeon&theme=gruvbox) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spirizeon&theme=gruvbox&utcOffset=5.5)
