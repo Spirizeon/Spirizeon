@@ -44,6 +44,11 @@ CS Undergraduate | DevOps specialist | UI & UX Designer | Cybersec Enthuse | 100
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 
+## 🛠-Learning
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spirizeon&theme=gruvbox&exclude={exclude}) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spirizeon&theme=gruvbox&exclude={exclude}) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=spirizeon&theme=gruvbox) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spirizeon&theme=gruvbox&utcOffset=5.5)
