@@ -3,7 +3,7 @@
 I am a developer with a deep passion for exploring things both about and beyond code. I am comfortable in Docker,Virtual machines, Python3 and its various frameworks and libraries, shell scripting, databases,version control and numerous markup languages.
 </br>
 </br>
-I am currently doing my bachelors degree in computer science. I actively am helping out in applications concerning containerisation, security and frontend design.
+I am currently doing my bachelors degree in computer science. I actively am helping out in applications concerning containerisation, security and frontend design. #OpenToWork!
 
 </br>
 </br>
@@ -26,6 +26,9 @@ I am currently doing my bachelors degree in computer science. I actively am help
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 </br>
 + 🔭 I am currently exploring about neural-network based computer vision
 + 🔥 Earning experience from hackathons.<br>
