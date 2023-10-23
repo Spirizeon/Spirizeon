@@ -1,4 +1,4 @@
-![An image of @spirizeon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spirizeon)
+![image](https://github.com/Spirizeon/Spirizeon/assets/123345456/bb9dc3f2-12fc-4b1a-b67c-565c33ff927c)![An image of @spirizeon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spirizeon)
 <h2>Hello There! Nice to see you!</h2>
 I am a developer with a deep passion for exploring things both about and beyond code. I am comfortable in Docker,Virtual machines, Python3 and its various frameworks and libraries, shell scripting, databases,version control and numerous markup languages.
 </br>
@@ -32,14 +32,14 @@ I am currently doing my bachelors degree in computer science. I actively am help
 </br>
 
 + 🔭 I am currently exploring about neural-network based computer vision
-+  Earning experience from hackathons.<br>
++ 🔥 Earning experience from hackathons.<br>
 + 💬 Ask me anything about Linux, Shell, Open source, Python and modal editors.
 + ⚡ Reach me on my <a href="https://www.linkedin.com/in/ayush-dutta-422a08289/"><b>Linkedin.</b></a>
-+ Fun fact: I love listening to groovy music and eating delicious food.
-+ My hashnode articles (Zyree's Campfire): Neovim as an IDE, Host your own search engine, Supercharge productivity through local development in android, etc.
-+ Tools: VSCode, Firefox, Helix-editor, Vim, Docker, Spotify, Discord, and finally the terminal equipped with Starship on my Linux (PopOS with COSMIC desktop)
-+ Currently learning scikit-learn, pytorch, graphql and raspberry pi
-+ I can type at a speed averaging at 100 words per minute on both mechanical and membrane based QWERTY keyboards.
++ 🙂 Fun fact: I love listening to groovy music and eating delicious food.
++ 📔 Hashnode articles (Zyree's Campfire): Neovim as an IDE, Host your own search engine, Supercharge productivity through local development in android, etc.
++ 🛠️ Tools: VSCode, Firefox, Helix-editor, Vim, Docker, Spotify, Discord, and finally the terminal equipped with Starship on my Linux (PopOS with COSMIC desktop)
++ 🧠 Currently learning scikit-learn, pytorch, graphql and raspberry pi
++ ⌨️ I can type at a speed averaging at 100 words per minute on both mechanical and membrane based QWERTY keyboards.
 
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=1031196479337013338)
