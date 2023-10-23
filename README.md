@@ -26,11 +26,7 @@ I am currently doing my bachelors degree in computer science. I actively am help
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-
-
 </br>
-</br>
-
 + 🔭 I am currently exploring about neural-network based computer vision
 + 🔥 Earning experience from hackathons.<br>
 + 💬 Ask me anything about Linux, Shell, Open source, Python and modal editors.
