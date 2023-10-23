@@ -1,4 +1,4 @@
-![image](https://github.com/Spirizeon/Spirizeon/assets/123345456/bb9dc3f2-12fc-4b1a-b67c-565c33ff927c)![An image of @spirizeon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spirizeon)
+![An image of @spirizeon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spirizeon)
 <h2>Hello There! Nice to see you!</h2>
 I am a developer with a deep passion for exploring things both about and beyond code. I am comfortable in Docker,Virtual machines, Python3 and its various frameworks and libraries, shell scripting, databases,version control and numerous markup languages.
 </br>
