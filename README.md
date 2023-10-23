@@ -1,31 +1,13 @@
 ![An image of @spirizeon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spirizeon)
-<div align="center">
-  <h2>Hello There, Fellow Developers, I am Ayush <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-  
-<div align="center">
+<h2>Hello There! Nice to see you!</h2>
+I am a developer with a deep passion for exploring things both about and beyond code. I am comfortable in Docker,Virtual machines, Python3 and its various frameworks and libraries, shell scripting, databases,version control and numerous markup languages.
+</br>
+</br>
+I am currently doing my bachelors degree in computer science. I actively am helping out in applications concerning containerisation, security and frontend design.
 
-CS Undergraduate | DevOps specialist | UI & UX Designer | Cybersec Enthuse | 100+ WPM
+</br>
+</br>
 
-</div>
-
-</div>
-
-<div align="center">
-    
-🔭 Currently learning machine learning to work on computer vision.<br> Earning experience from hackathons.<br>💬 Ask me anything. <br>⚡ Fun fact: I love modal editors. <br> &#128231; Reach me on my <a href="https://www.linkedin.com/in/ayush-dutta-422a08289/"><b>Linkedin.</b></a>
-</div>
-<br>
-
-<div align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spirizeon&theme=gruvbox)
-
-</div>
-
-<div align="center">
-
-
-## 🛠-Skill stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -45,30 +27,30 @@ CS Undergraduate | DevOps specialist | UI & UX Designer | Cybersec Enthuse | 100
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 
-## 🛠-Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+</br>
+</br>
+
++ 🔭 I am currently exploring about neural-network based computer vision
++  Earning experience from hackathons.<br>
++ 💬 Ask me anything about Linux, Shell, Open source, Python and modal editors.
++ ⚡ Reach me on my <a href="https://www.linkedin.com/in/ayush-dutta-422a08289/"><b>Linkedin.</b></a>
++ Fun fact: I love listening to groovy music and eating delicious food.
++ My hashnode articles (Zyree's Campfire): Neovim as an IDE, Host your own search engine, Supercharge productivity through local development in android, etc.
++ Tools: VSCode, Firefox, Helix-editor, Vim, Docker, Spotify, Discord, and finally the terminal equipped with Starship on my Linux (PopOS with COSMIC desktop)
++ Currently learning scikit-learn, pytorch, graphql and raspberry pi
++ I can type at a speed averaging at 100 words per minute on both mechanical and membrane based QWERTY keyboards.
 
 
-
+![My Discord](https://discord-readme-badge.vercel.app/api?id=1031196479337013338)
+<br>
+---
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spirizeon&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spirizeon&theme=gruvbox&exclude={exclude}) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spirizeon&theme=gruvbox&exclude={exclude}) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=spirizeon&theme=gruvbox) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spirizeon&theme=gruvbox&utcOffset=5.5)
 
 
 
-## 🏀 Socials
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=1031196479337013338)
-
-<a href="https://leetcode.com/Spirizeon/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
-<a href="https://dribbble.com/Zeta"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
-<a href="https://zyree.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)" /></a>
-<a href="https://hackerrank.com/spirizeon"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black"/></a>
-
-
-<img src="https://profile-counter.glitch.me/{spirizeon}/count.svg" alt="spirizeon :: Visitor's Count" />  
 
 
 
