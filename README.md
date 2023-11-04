@@ -38,7 +38,7 @@ I am currently doing my bachelors degree in computer science. I actively am help
 + 🙂 Fun fact: I love listening to groovy music and eating delicious food.
 + 📔 Hashnode articles (Zyree's Campfire): Neovim as an IDE, Host your own search engine, Supercharge productivity through local development in android, etc.
 + 🛠️ Tools: VSCode, Firefox, Helix-editor, Vim, Docker, Spotify, Discord, and finally the terminal equipped with Starship on my Linux (PopOS with COSMIC desktop)
-+ 🧠 Currently learning scikit-learn, pytorch, graphql and raspberry pi
++ 🧠 Currently learning deep-learning for cybersecurity and computer vision
 + ⌨️ I can type at a speed averaging at 100 words per minute on both mechanical and membrane based QWERTY keyboards.
 
 
