@@ -37,6 +37,7 @@ I am currently doing my bachelors degree in computer science. I actively am help
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 </br>
+
 + 🔭 I am currently exploring about neural-network based computer vision
 + 🔥 Earning experience from hackathons.<br>
 + 💬 Ask me anything about Linux, Shell, Open source, Python and modal editors.
