@@ -1,9 +1,9 @@
 ![An image of @spirizeon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spirizeon)
-<h2>Hello There! Nice to see you!</h2>
-I am a developer with a deep passion for exploring things both about and beyond code. I am comfortable in Docker,Virtual machines, Python3 and its various frameworks and libraries, shell scripting, databases,version control and numerous markup languages.
+<h2>👋 Hello There! Nice to see you!</h2>
+Hi! I am Ayush. A dedicated college student with a strong passion in tech, code and security. Equipped with outstanding communication skills and a strong foundation and passion about tech and github. 
 </br>
 </br>
-I am currently doing my bachelors degree in computer science. I actively am helping out in applications concerning containerisation, security and frontend design. #OpenToWork!
+I am proficient in the Linux command-line and have explored before in topics like forensics, OSINT, virtualisation, High and low level programming, shell scripting, databases, version control and numerous markup languages. I believe in delivering my best, adding more value to my organisation through my non-stop desire to learn and adaptability to solve problems across various scenarios.
 
 </br>
 </br>
