@@ -38,7 +38,7 @@ I am proficient in the Linux command-line and have explored before in topics lik
 + 💬 Ask me anything about Linux, Shell, Open source, Python and modal editors.
 + ⚡ Reach me on my <a href="https://www.linkedin.com/in/ayush-dutta-422a08289/"><b>Linkedin.</b></a>
 + 🙂 Fun fact: I love listening to groovy music and eating delicious food.
-+ 📔 Hashnode articles (Zyree's Campfire): Neovim as an IDE, Host your own search engine, Supercharge productivity through local development in android, etc.
++ 📔 Hashnode articles (Berzi's Campfire): The ZySec series, Host your own search engine, Supercharge productivity through local development in android, etc.
 + 🛠️ Tools: VSCode, Firefox, Helix-editor, Vim, Docker, Spotify, Discord, and finally the terminal equipped with Starship on my Arch Linux
 + 🧠 Currently learning deep-learning for cybersecurity and computer vision
 + ⌨️ I can type at a speed averaging at 100 words per minute on both mechanical and membrane based QWERTY keyboards.
