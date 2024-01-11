@@ -1,4 +1,4 @@
-![An image of @spirizeon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spirizeon)
+
 <h2>👋 Hello There! Nice to see you!</h2>
 Hi! I am Ayush. A dedicated college student with a strong passion in tech, code and security. Equipped with outstanding communication skills and a strong foundation and passion about tech and github. 
 </br>
@@ -56,7 +56,7 @@ I am proficient in the Linux command-line and have explored before in topics lik
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spirizeon&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spirizeon&theme=gruvbox&exclude={exclude}) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spirizeon&theme=gruvbox&exclude={exclude}) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=spirizeon&theme=gruvbox) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spirizeon&theme=gruvbox&utcOffset=5.5)
 
-
+![An image of @spirizeon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spirizeon)
 
 
 
