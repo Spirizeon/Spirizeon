@@ -19,5 +19,5 @@ My name is **Ayush**<!-- the bold part is the origin of my ID -->. I am an under
 ---
 
 ### :pencil: [Latest blog posts](https://berzi.hashnode.dev) 👇
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
