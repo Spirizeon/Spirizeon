@@ -1,0 +1,8 @@
+  - name: "📚  Hashnode Updater"
+    uses: "varunsridharan/action-hashnode-blog@main"
+    with:
+      USERNAME: 'berzelion'
+      COUNT: 6
+      STYLE: "list"
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
