@@ -1,7 +1,7 @@
 - name: "Hashnode Updater"
   uses: varunsridharan/action-hashnode-blog@main
   with:
-    USERNAME: your-username
+    USERNAME: spirizeon
     COUNT: 6
     STYLE: list
   env:
