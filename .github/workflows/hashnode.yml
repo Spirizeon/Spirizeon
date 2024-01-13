@@ -16,7 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@1.2"
         with:
-          USERNAME: "berzelion" # Hashnode Username
+          USERNAME: "berzi" # Hashnode Username
           COUNT: 4 # MAX Visisble
           STYLE: "list"
           BLOG_URL: "https://berzi.hashnode.dev/"
