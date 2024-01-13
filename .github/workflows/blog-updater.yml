@@ -1,8 +1,18 @@
-  - name: "📚  Hashnode Updater"
-    uses: "varunsridharan/action-hashnode-blog@main"
-    with:
-      USERNAME: 'berzelion'
-      COUNT: 6
-      STYLE: "list"
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            - name: Hashnode Blog
+  # You may pin to the exact commit or the version.
+  # uses: varunsridharan/action-hashnode-blog@38936ff46f6ae78dcc6c8116d5db96a8bc7bad94
+  uses: varunsridharan/action-hashnode-blog@1.2
+  with:
+    # Set it to GIST if you are using this for a pinned gists
+    TYPE: # optional, default is REPOSITORY
+    # Provide your custom blog url. or leave it empty to auto generate
+    BLOG_URL: #default
+    # Provide GIST ID if Type is Set To Gists or provide a valid file location
+    FILE: # optional, default is README.md
+    # Your Hashnode Username
+    USERNAME: 'spirizeon'
+    # Provide Which Style You Need
+    STYLE: # optional, default is list
+    # No of Latest Post To Show
+    COUNT: # optional, default is 6
+          
