@@ -20,6 +20,7 @@ My name is **Ayush**<!-- the bold part is the origin of my ID -->. I am an under
 
 ### :pencil: [Latest blog posts](https://berzi.hashnode.dev) 👇
 <!--START_SECTION:blog-posts-->
+-   2024-01-14 [ZySec-day-14: Virtual Machines and Containers](https://berzi.hashnode.dev/zysec-day-14)
 -   2024-01-11 [Clax.nvim: A Lightning-Fast Neovim Distribution](https://berzi.hashnode.dev/claxnvim-a-lightning-fast-neovim-distribution)
 -   2024-01-09 [ZySec Day 13: OSI model](https://berzi.hashnode.dev/zysec-day-13)
 -   2024-01-06 [ZySec Day 12: Arch Security](https://berzi.hashnode.dev/zysec-day-12)
