@@ -7,9 +7,9 @@ My name is **Ayush**<!-- the bold part is the origin of my ID -->. I am an under
 
   
 -   :pencil2: [computer vision](https://www.ibm.com/topics/computer-vision) / [linux systems](https://en.wikipedia.org/wiki/Linux) / [CI-CD](https://en.wikipedia.org/wiki/CI/CD) / [security analysis](https://en.wikipedia.org/wiki/Computer_security)
--   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [neovim](https://neovim.io/) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [kitty](https://github.com/kovidgoyal/kitty)
+-   :package: [arch linux](https://wiki.archlinux.org/title/Arch_Linux) / [neovim](https://neovim.io/) / [mpv](https://mpv.io/) / [firefox](https://www.mozilla.org/firefox/) / [kitty](https://github.com/kovidgoyal/kitty)
 -   :seedling: Researching on computer engineering...
--   ⚡ Reach me on my ![Linkedin](https://in.linkedin.com/in/ayush-dutta-422a08289).
+-   ⚡ Reach me on my ![Linkedin](https://in.linkedin.com/in/ayushduttasrmap).
 
 ---
 
