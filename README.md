@@ -3,7 +3,8 @@
 My name is **Ayush**<!-- the bold part is the origin of my ID -->. I am an undergraduate student at SRMAP, India.
 
 
-  <img src="https://discord-readme-badge.vercel.app/api?id=1031196479337013338" align='right' /> 
+  <img src="https://discord-readme-badge.vercel.app/api?id=1031196479337013338" align='right' />
+
 
   
 -   :pencil2: [computer vision](https://www.ibm.com/topics/computer-vision) / [linux systems](https://en.wikipedia.org/wiki/Linux) / [CI-CD](https://en.wikipedia.org/wiki/CI/CD) / [security analysis](https://en.wikipedia.org/wiki/Computer_security)
@@ -14,7 +15,7 @@ My name is **Ayush**<!-- the bold part is the origin of my ID -->. I am an under
 ---
 
 ### :bar_chart: ![Coding stats](https://profile-summary-for-github.com/user/spirizeon)
-<img src="https://www.codewars.com/users/Spirizeon/badges/large" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/berzinaut.png" alt="TryHackMe">
 <img src="https://myreadme.vercel.app/api/embed/spirizeon?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ---
