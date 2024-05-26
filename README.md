@@ -1,7 +1,4 @@
 ### 💠 *"In spirit, we trust..."*
-![BREAK  ROOT  REBOOT (2)](https://github.com/Spirizeon/Spirizeon/assets/123345456/f3b18878-23f1-45cf-8e38-b9c63d4bed50)
-
----
 My name is **Ayush**<!-- the bold part is the origin of my ID -->. I am an undergraduate student at SRMAP, India.
 
 
@@ -14,13 +11,6 @@ My name is **Ayush**<!-- the bold part is the origin of my ID -->. I am an under
 -   :seedling: Researching on malware...
 -   ⚡ Reach me on my ![Linkedin](https://in.linkedin.com/in/ayushduttasrmap).
 
----
-
-### :bar_chart: ![Coding stats](https://profile-summary-for-github.com/user/spirizeon)
-
-<img src="https://myreadme.vercel.app/api/embed/spirizeon?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
----
 
 ### :pencil: [Latest blog posts](https://berzi.hashnode.dev) 👇
 <!--START_SECTION:blog-posts-->
