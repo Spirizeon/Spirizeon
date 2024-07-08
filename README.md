@@ -6,8 +6,8 @@ My name is **Ayush**<!-- the bold part is the origin of my ID -->. I am an under
 
 
 -   📎 Here's my [portfolio](https://spirizeon.github.io)
--   :pencil2: [malware analysis](https://en.wikipedia.org/wiki/Malware) / [linux](https://en.wikipedia.org/wiki/Linux) / [low level systems](https://en.wikipedia.org//wiki/Low-level_programming_language) / [security analysis](https://en.wikipedia.org/wiki/Computer_security)
--   :package: [arch linux](https://wiki.archlinux.org/title/Arch_Linux) / [neovim](https://neovim.io/) / [mpv](https://mpv.io/) / [firefox](https://www.mozilla.org/firefox/) / [kitty](https://github.com/kovidgoyal/kitty)
+-   :pencil2: malware analysis / linux / systems / security
+-   :package: pop-os / neovim / firefox / kitty 
 -   :seedling: Researching on malware, building what i feel like...
 -   ⚡ Reach me on my ![Linkedin](https://in.linkedin.com/in/ayushduttasrmap).
 
