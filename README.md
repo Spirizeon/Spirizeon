@@ -1,22 +1,27 @@
-### 💠 Hi, and welcome!
-My name is **Ayush**<!-- the bold part is the origin of my ID -->. I am an undergraduate student at SRMAP, India.
-
-
-  <img src="https://discord-readme-badge.vercel.app/api?id=1031196479337013338" align='right' />
-
-
--   📎 Here's my [portfolio](https://spirizeon.github.io)
--   :pencil2: malware analysis / linux / systems / security
--   :package: rust / C / python / bash
--   :seedling: Researching on wireless crowd charging, building what i feel like...
--   ⚡ Reach me on my ![Linkedin](https://in.linkedin.com/in/ayushduttasrmap).
-
-## ✍ Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my [website](spirizeon.github.io/blogs) 
-
-A sample of my recent articles:
-- [Zero to Version Control in Rust](https://spirizeon.github.io/blogposts/dialga.html)
-- [NixOS: OS as Code](https://spirizeon.github.io/blogposts/nixos.html)
-- [Web Pentesting strategies](https://spirizeon.github.io/blogposts/wap.html)
-
+<p align="center">
+   <samp><br>
+   Hey there, I'm Ayush!
+   <br>
+   I programme in Python 🐍, Rust 🦀, C, & Bash 🔌.<br>
+   In the mean time ⏰, I'm contributing to a research paper 📚 on wireless networks<br>
+   I also maintain a small tech blog 💡. here, give some a read...
+   <br>
+  
+  
+   </samp><br>
+<p align="center"><samp> ~
+   <a href="https://spirizeon.github.io/blog">zero to version control in rust</a>
+   ·
+   <a href="https://twitter.com/louihaa">nixos: os as code</a>
+   ·
+   <a href="https://www.linkedin.com/in/louise-heide-%C3%A5kerman-0954421a5/">web-pentesting strategies</a>
+   ~ </samp><br><br>
+   
+</p>
+</p>
+<div align="center">
+     <samp><br>
+   Here's my discord presence. You'll find the other socials in my bio 🌿. Cheers!
+   <br>
+ <img src="https://discord-readme-badge.vercel.app/api?id=1031196479337013338" align='center' />
+</div>
