@@ -7,7 +7,7 @@ My name is **Ayush**<!-- the bold part is the origin of my ID -->. I am an under
 
 -   📎 Here's my [portfolio](https://spirizeon.github.io)
 -   :pencil2: malware analysis / linux / systems / security
--   :package: pop-os / neovim / firefox / kitty 
+-   :package: rust / C / python / bash
 -   :seedling: Researching on malware, building what i feel like...
 -   ⚡ Reach me on my ![Linkedin](https://in.linkedin.com/in/ayushduttasrmap).
 
