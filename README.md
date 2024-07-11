@@ -10,11 +10,11 @@
   
    </samp><br>
 <p align="center"><samp> ~
-   <a href="https://spirizeon.github.io/blog">zero to version control in rust</a>
+   <a href="https://spirizeon.github.io/blogposts/dialga.html">zero to version control in rust</a>
    ·
-   <a href="https://twitter.com/louihaa">nixos: os as code</a>
+   <a href="https://spirizeon.github.io/blogposts/nixos">nixos: os as code</a>
    ·
-   <a href="https://www.linkedin.com/in/louise-heide-%C3%A5kerman-0954421a5/">web-pentesting strategies</a>
+   <a href="https://spirizeon.github.io/blogposts/wap.html">web-pentesting strategies</a>
    ~ </samp><br><br>
    
 </p>
