@@ -1,6 +1,6 @@
 <p align="center">
    <samp><br>
-   Hey there 👋, I'm Ayush 😃!
+   Hey there 👋, I'm Ayush!
    <br>
    I programme in Python 🐍, Rust 🦀, C, & Bash 🔌.<br>
    In the mean time ⏰, I'm contributing to a research paper 📚 on wireless networks<br>
