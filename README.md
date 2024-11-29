@@ -4,5 +4,4 @@
 
 <p align="center">
   <img src="https://discord-readme-badge.vercel.app/api?id=1031196479337013338" align='center' />
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/spirizeon?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
