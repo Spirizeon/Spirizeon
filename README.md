@@ -1,5 +1,4 @@
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fspirizeonc433a.png?alt=media)
-
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fspirizeon62682.png?alt=media)
 
 
 <p align="center">
