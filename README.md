@@ -7,6 +7,6 @@
   <img src="https://discord-readme-badge.vercel.app/api?id=1031196479337013338" align='center' />
 </p>
 -->
-## 👾 @spirizeon
+## 👾 going 120% everyday
 
 empowering infosec/dev student ecosystems ✦ infrasec ✦ threat emulation
