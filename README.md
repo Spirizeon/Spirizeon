@@ -8,7 +8,7 @@
 </p>
 -->
 ## 🪷 Ayush (a.k.a berzi)
-> <i>progress is the pursuit of change</i> 
+> <i>cybersecurity engineer + devrel with a passion for fighting games</i> 
 
 <p align="center">
   <a href="https://berzi.hashnode.dev/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
@@ -16,10 +16,6 @@
   <a href="https://www.linkedin.com/in/ayushduttasrmap/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/sponsors/spirizeon" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/badge/Sponsor-171515?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-I'm a Cybersecurity Freelance engineer. All opinions are my own.
-
-My passion is making cybersecurity more accessible to people with diverse backgrounds.
 
 ## XP
 
