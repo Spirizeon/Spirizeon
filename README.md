@@ -12,21 +12,15 @@
 
 <p align="center">
   <a href="https://berzi.hashnode.dev/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
-  <a href="https://x.com/intent/follow?screen_name=berzelion&tw_p=followbutton" target="_blank"><img alt="X" src="https://img.shields.io/badge/extwitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://x.com/intent/follow?screen_name=berzelion&tw_p=followbutton" target="_blank"><img alt="X" src="https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ayushduttasrmap/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/sponsors/spirizeon" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/badge/Sponsor-171515?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 I'm a Cybersecurity Freelance engineer. All opinions are my own.
-
-I am a member of ![Next Tech Lab](nexttechlab.in) hackerhouse since 2023. Our philosophy has always been to build, grow and share since 2017!
-<p align="left">
-  <img src="https://discord-readme-badge.vercel.app/api?id=1031196479337013338" align='center' />
-</p>
-
 My passion is making cybersecurity more accessible to people with diverse backgrounds.
 
-## My Exp
+## XP
 
 <table>
   <thead>
@@ -74,7 +68,12 @@ My passion is making cybersecurity more accessible to people with diverse backgr
 [clc]: https://github.com/haskell/core-libraries-committee
 [haskell-course]: https://github.com/haskell-beginners-2022/course-plan
 
-### My community involvement
+### Community
+
+I am a member of ![Next Tech Lab](nexttechlab.in) hackerhouse since 2023. Our philosophy has always been to build, grow and share since 2017!
+<p align="left">
+  <img src="https://discord-readme-badge.vercel.app/api?id=1031196479337013338" align='center' />
+</p>
 
 I do all kinds of commmunity work to help people get started with cybersecurity as easier as possible:
 
@@ -83,7 +82,7 @@ I do all kinds of commmunity work to help people get started with cybersecurity 
 * [ Security BSides Jammu](https://www.instagram.com/bsidesjammu/) - Community Content Manager
 * [ Blog](https://berzi.hashnode.dev/) — articles explaining underrated concepts like active directory, practical linux, and networking!
 
-OSS has been a huge part of my educator and mentor journey for many years and I'd like to highlight a few notable projects:
+Building on GitHub has been a huge part of my journey for many years and I'd like to highlight a few notable projects:
 
 <table>
   <thead align="center">
@@ -132,7 +131,7 @@ OSS has been a huge part of my educator and mentor journey for many years and I'
   </tbody>
 </table>
 
-If you like my work and want to support me, you can [sponsor me on GitHub 💖](https://github.com/sponsors/chshersh) <a href="https://github.com/sponsors/chshersh" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/github/sponsors/chshersh" /></a>
+If you like my work and want to support me, you can [sponsor me on GitHub 💖](https://github.com/sponsors/spirizeon) <a href="https://github.com/sponsors/spirizeon" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/github/sponsors/spirizeon" /></a>
 
 You can also find me on other social media:
 
