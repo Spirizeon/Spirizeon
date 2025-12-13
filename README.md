@@ -18,6 +18,7 @@
 </p>
 
 I'm a Cybersecurity Freelance engineer. All opinions are my own.
+
 My passion is making cybersecurity more accessible to people with diverse backgrounds.
 
 ## XP
