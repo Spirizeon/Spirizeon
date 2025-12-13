@@ -7,7 +7,7 @@
   <img src="https://discord-readme-badge.vercel.app/api?id=1031196479337013338" align='center' />
 </p>
 -->
-## 🪷 Ayush (a.k.a berzi)
+## 🪷 Ayush Dutta
 > <i>cybersecurity engineer + devrel with a passion for fighting games</i> 
 
 <p align="center">
@@ -62,8 +62,41 @@
   </tbody>
 </table>
 
-[clc]: https://github.com/haskell/core-libraries-committee
-[haskell-course]: https://github.com/haskell-beginners-2022/course-plan
+Building on GitHub has been a huge part of my journey for many years and I'd like to highlight a few notable projects:
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📦 Projects</b></td>
+      <td><b>📜 Language</b></td>
+      <td><b>⭐ Stars</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#"><b>claxvim</b></a> — distributable IDE-grade neovim config written in Lua & Shell</td>
+      <td><img alt="Lua" src="https://img.shields.io/badge/-Lua-000080?style=flat-square&logo=lua&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/spirizeon/claxvim?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="#"><b>dialga</b></a> — reverse-engineered Git with improvements, written in pure Rust & Vitepress</td>
+      <td><img alt="Rust" src="https://img.shields.io/badge/-Rust-ce412B?style=flat-square&logo=rust&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/spirizeon/dialga?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="#"><b>berzifetch</b></a> — POSIX compliant system fetch. Minimal, Fast and detailed</td>
+      <td><img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/spirizeon/berzifetch?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="#"><b>lumen</b></a> — Malware deconstructor and LLM-based static analyser using Gemini, Radare2, Boomerang</td>
+      <td><img alt="Objective-C" src="https://img.shields.io/badge/-Objective--C-438eff?style=flat-square&logo=objective-c&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/spirizeon/lumen?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+If you like my work and want to support me, you can [sponsor me on GitHub 💖](https://github.com/sponsors/spirizeon) <a href="https://github.com/sponsors/spirizeon" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/github/sponsors/spirizeon" /></a>
 
 ### Community
 
@@ -79,56 +112,7 @@ I do all kinds of commmunity work to help people get started with cybersecurity 
 * [ Security BSides Jammu](https://www.instagram.com/bsidesjammu/) - Community Content Manager
 * [ Blog](https://berzi.hashnode.dev/) — articles explaining underrated concepts like active directory, practical linux, and networking!
 
-Building on GitHub has been a huge part of my journey for many years and I'd like to highlight a few notable projects:
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📦 Projects</b></td>
-      <td><b>📜 Language</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🔀 Forks</b></td>
-      <td><b>ℹ️ Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="#"><b>claxvim</b></a> — distributable IDE-grade neovim config written in Lua & Shell</td>
-      <td><img alt="Lua" src="https://img.shields.io/badge/-Lua-000080?style=flat-square&logo=lua&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/spirizeon/claxvim?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/spirizeon/claxvim?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/spirizeon/claxvim?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/spirizeon/claxvim?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="#"><b>dialga</b></a> — reverse-engineered Git with improvements, written in pure Rust & Vitepress</td>
-      <td><img alt="Rust" src="https://img.shields.io/badge/-Rust-ce412B?style=flat-square&logo=rust&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/spirizeon/dialga?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/spirizeon/dialga?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/spirizeon/dialga?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/spirizeon/dialga?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="#"><b>berzifetch</b></a> — POSIX compliant system fetch. Minimal, Fast and detailed</td>
-      <td><img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/spirizeon/berzifetch?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/spirizeon/berzifetch?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/spirizeon/berzifetch?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/spirizeon/berzifetch?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="#"><b>lumen</b></a> — Malware deconstructor and LLM-based static analyser using Gemini, Radare2, Boomerang</td>
-      <td><img alt="Objective-C" src="https://img.shields.io/badge/-Objective--C-438eff?style=flat-square&logo=objective-c&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/spirizeon/lumen?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/spirizeon/lumen?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/spirizeon/lumen?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/spirizeon/lumen?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-
-If you like my work and want to support me, you can [sponsor me on GitHub 💖](https://github.com/sponsors/spirizeon) <a href="https://github.com/sponsors/spirizeon" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/github/sponsors/spirizeon" /></a>
 
 You can also find me on other social media:
 
