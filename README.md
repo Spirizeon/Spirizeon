@@ -7,7 +7,7 @@
   <img src="https://discord-readme-badge.vercel.app/api?id=1031196479337013338" align='center' />
 </p>
 -->
-## 🪷 Ayush Dutta - *"go 120% everyday"*
+## 🪷 *"go 120% everyday"*
 > <i>cybersecurity, agentic engineer + devrel with a passion for fighting games</i> 
 
 I currently lead [Next Tech Lab](nexttechlabap.in). A QS ReImagine Education awarded student society running since 2017.
