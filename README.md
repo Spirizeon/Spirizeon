@@ -8,16 +8,24 @@
 </p>
 -->
 ## 🪷 Ayush Dutta
-> <i>cybersecurity engineer + devrel with a passion for fighting games</i> 
+> <i>cybersecurity, agentic engineer + devrel with a passion for fighting games</i> 
 
-<p align="center">
+I currently lead [Next Tech Lab](nexttechlabap.in). A QS ReImagine Education awarded student society running since 2017.
+
+
   <a href="https://berzi.hashnode.dev/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
   <a href="https://x.com/intent/follow?screen_name=berzelion&tw_p=followbutton" target="_blank"><img alt="X" src="https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ayushduttasrmap/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/sponsors/spirizeon" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/badge/Sponsor-171515?&style=for-the-badge&logo=github&logoColor=white" /></a>
+
+
+<p align="left">
+  <img src="https://discord-readme-badge.vercel.app/api?id=1031196479337013338" align='center' />
 </p>
 
 ## XP
+View my writeups by going [ here ](https://blog.berzi.one) — articles explaining underrated concepts like active directory, practical linux, and networking!
+
 
 <table>
   <thead>
@@ -62,78 +70,20 @@
   </tbody>
 </table>
 
-Building on GitHub has been a huge part of my journey for many years and I'd like to highlight a few notable projects:
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📦 Projects</b></td>
-      <td><b>📜 Language</b></td>
-      <td><b>⭐ Stars</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="#"><b>claxvim</b></a> — distributable IDE-grade neovim config written in Lua & Shell</td>
-      <td><img alt="Lua" src="https://img.shields.io/badge/-Lua-000080?style=flat-square&logo=lua&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/spirizeon/claxvim?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="#"><b>dialga</b></a> — reverse-engineered Git with improvements, written in pure Rust & Vitepress</td>
-      <td><img alt="Rust" src="https://img.shields.io/badge/-Rust-ce412B?style=flat-square&logo=rust&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/spirizeon/dialga?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="#"><b>berzifetch</b></a> — POSIX compliant system fetch. Minimal, Fast and detailed</td>
-      <td><img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/spirizeon/berzifetch?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="#"><b>lumen</b></a> — Malware deconstructor and LLM-based static analyser using Gemini, Radare2, Boomerang</td>
-      <td><img alt="Objective-C" src="https://img.shields.io/badge/-Objective--C-438eff?style=flat-square&logo=objective-c&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/spirizeon/lumen?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-
 If you like my work and want to support me, you can [sponsor me on GitHub 💖](https://github.com/sponsors/spirizeon) <a href="https://github.com/sponsors/spirizeon" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/github/sponsors/spirizeon" /></a>
 
 ### Community
-
-I am a member of ![Next Tech Lab](nexttechlab.in) hackerhouse since 2023. Our philosophy has always been to build, grow and share since 2017!
-<p align="left">
-  <img src="https://discord-readme-badge.vercel.app/api?id=1031196479337013338" align='center' />
-</p>
-
 I do all kinds of commmunity work to help people get started with cybersecurity as easier as possible:
 
 * [ Google Dev Groups](https://gdg.community.dev/gdg-on-campus-srm-university-ap-amaravati-india/) — Founding Leads, and Community Architect
 * [ Free & Open Source Software Community](https://fossunited.org/c/srm-university-ap) - Student Advisor
-* [ Security BSides Jammu](https://www.instagram.com/bsidesjammu/) - Community Content Manager
-* [ Blog](https://berzi.hashnode.dev/) — articles explaining underrated concepts like active directory, practical linux, and networking!
-
-
+* [ AWS Cloud Clubs ](https://www.meetup.com/aws-cloud-club-at-srm-university-andhra-pradesh/) - Student Advisor
+* [ AWS Cloud Clubs ](https://www.meetup.com/aws-cloud-club-at-srm-university-andhra-pradesh/) - Student Advisor
+* [ HackShastra ](https://www.hackshastrasrmuap.dev/) - Student Advisor
 
 You can also find me on other social media:
 
 * [🔊 𝕏](https://x.com/berzelion)
 * [⛅️ Linkedin: @ayushduttasrmap](https://linkedin.com/in/ayushduttasrmap)
 
-### My toolbox
 
-<p>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
-  <img alt="OCaml" src="https://img.shields.io/badge/-OCaml-EE6A1A?style=flat-square&logo=ocaml&logoColor=white" />
-  <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-ce412B?style=flat-square&logo=rust&logoColor=white" />
-  <img alt="Dhall" src="https://custom-icon-badges.demolab.com/badge/-Dhall-dfafff?style=flat-square&logo=dhall&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-K8S-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Helm" src="https://img.shields.io/badge/-Helm-091C84?style=flat-square&logo=helm&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-</p>
